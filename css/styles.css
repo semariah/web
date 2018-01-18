@@ -1,0 +1,22 @@
+p {
+  border: 4px dotted green;
+  padding: 15px;
+  margin-left: 7px;
+  background-color: yellow;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.example {
+  font-family: monospace;
+}
+
+.example p {
+  font-family: fantasy;
+}
+
+.example p a {
+  font-style: italic;
+}
